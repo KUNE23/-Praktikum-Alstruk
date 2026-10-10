@@ -1,5 +1,5 @@
 Tugas Pertemuan 3 - Algoritma dan Struktur Data
 
-Nama : Alfiansyah Sibyanurrizki
-NIM  : 10225010
+Nama : Alfiansyah Sibyanurrizki<br>
+NIM  : 10225010<br>
 KELAS: IF-III-A
